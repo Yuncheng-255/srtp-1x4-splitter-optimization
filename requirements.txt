@@ -1,0 +1,24 @@
+# SRTP 1x4 Splitter Optimization
+# Python dependencies
+
+# Core
+tidy3d[triton]>=2.0
+jax>=0.4
+jaxlib
+optax
+
+# Scientific
+numpy>=1.24
+scipy
+matplotlib
+
+# Utilities
+tqdm
+pyyaml
+python-dotenv
+
+# Development (optional)
+pytest
+jupyter
+black
+flake8
